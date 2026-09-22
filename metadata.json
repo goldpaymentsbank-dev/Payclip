@@ -1,0 +1,6 @@
+{
+  "name": "SPEI Reels - Watch & Earn",
+  "description": "Plataforma de videos cortos Watch-to-Earn y retos interactivos con retiros monetarios instantáneos vía SPEI a cualquier CLABE interbancaria de México.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
